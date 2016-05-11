@@ -178,7 +178,7 @@
             "externalLink": {
                 "name": "drill_ui",
                 "label": "Drill UI",
-                "url": "http://172.16.4.108:8900/tmp"
+                "url": "http://${host}:8047"
             },
             "logging" : {
                 "dir" : "/var/log/drill",
